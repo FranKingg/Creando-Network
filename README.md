@@ -1,2 +1,2 @@
-# Creando-Network
-¡Este es el repositorio de notas, para crear la network en minecraft! Canal: FranKinggDev
+# ¡Iniciando serie de como crear una Network en Minecraft 2023!
+Aquí estaran las notas de la serie, comandos, plugins, consejos, tips, etc.
